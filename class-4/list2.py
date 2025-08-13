@@ -9,5 +9,5 @@ print(size[0])
 
 
 # delete
-del sizeaq
+del size
 print(size)
