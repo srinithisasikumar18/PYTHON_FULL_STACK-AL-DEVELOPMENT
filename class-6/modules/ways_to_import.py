@@ -14,8 +14,8 @@ import math
 # print(dir(math))
 
 #4
-import math
-print(math.sqrt(100))
+import math as ma
+print(ma.sqrt(100))
 # print(sqrt(16)) #------------error
 
 from math import sqrt
