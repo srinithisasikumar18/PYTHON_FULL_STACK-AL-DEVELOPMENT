@@ -116,7 +116,7 @@ for emp in employees:
         male_emp+=1
     if emp["gender"]=="Female":
         female_emp+=1
-    if emp["gender"]=="Male" and emp["gender"]=="Female":
+    if emp["gender"]!="Male","Female":
         other_emp+=1
 
 
