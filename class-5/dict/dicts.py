@@ -9,6 +9,7 @@ print(emp)
 
 print(emp['ename'])
 print(emp['email'])
+print(emp['loc'])#---KeyError
 
 emp['eid']=103
 emp['mother name']="kokila"
